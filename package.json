@@ -1,0 +1,16 @@
+{
+  "name": "iron-filings",
+  "version": "0.0.1",
+  "description": "Implements a dictionary attack against Node.js session management implementations based on Iron.",
+  "main": "iron-filings.js",
+  "dependencies": {
+    "iron": "^4.0.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Keetch",
+  "license": "CC-BY-4.0"
+}
