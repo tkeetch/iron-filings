@@ -4,7 +4,7 @@
   "description": "Implements a dictionary attack against Node.js session management implementations based on Iron.",
   "main": "iron-filings.js",
   "dependencies": {
-    "iron": "^4.0.0",
+    "iron": "^4.0.4",
     "minimist": "^1.2.0"
   },
   "devDependencies": {},
